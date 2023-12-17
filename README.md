@@ -50,7 +50,6 @@ e.g. the way you would get "∂" is AltGr + 9, and the way you would get "ℝ" i
 - Greek letters are on AltGr + alphabet key, and the uppercase version is on AltGr + Shift + key. The arrangement of the key is in accordance to the Greek typing layout, but is mostly the same. For example, α is AltGr + a, σ is AltGr + s, Σ is AltGr + Shift + s.
 - MathBB letters are on Caps Lock + alphabet key. The microsoft keyboard layout editor is very crusty and old, so I could only put on characters with up to 4 letters in their unicode code, but is enough to cover the standard sets (ℕ,ℤ,ℝ,ℂ,ℚ)
 - Superscript is on AltGr + 0, 1, 2, 3, and subscript is on AltGr + Shift + 0, 1, 2, 3 respectively. Additionally there is superscript ⁺ and ⁻ bound to AltGr + -, and AltGr + Shift + ⁺ respectively. Note that the x in the picture isn't included it's just to see the difference.
-- Arrows and Implies notation {←,→,⟸,⟹} are on AltGr + Shift + []. Preferably arrows would be on the < and > key, but didn't wanna be using caps lock for implies. might change this later
 
 #### Dead Key
 Any symbol in the picture that is marked in a red font can be used in the "dead key". This is a key that is used in combination with another key to create a modified key. A common example in other languages is using ' in addition with a key to create accents, e.g. ' followed by "a" = "à". 
@@ -78,6 +77,7 @@ In this case the dead key usage is for "not" symbols. Dead key is accessed by Al
 | ∼ | ≁ |
 
 #### Random keymaps with ways to remember it
+- Arrows{←,→} are on Caps Lock + {<,>}, while Implies notation {⟺, ⟹,⟸,} are on Caps Lock + Shift + {<,>,=} cos they look like arrows
 - Wedge/∧ is on AltGr + 6 cos it looks like a Carat, with Vee/∨ on AltGr + Shift + 6. Larger versions are on the caps lock layer(⋀,⋁)
 - Cap/∩ is on AltGr + 7 cos "∩" and "&" both mean "and", with Cup/∪ on AltGr + Shift + 6. Larger versions are on the caps lock layer(⋂,⋃)
 - Less than/≤ and Greater than/≥ are on AltGr + their respective < and > keys
