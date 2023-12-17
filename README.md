@@ -16,7 +16,7 @@ Probably not, but ever wanted to type the symbol "²" in a whatsapp chat from a 
 
 #### How to use
  - Navigate to Releases section
- - Download the latest version
+ - Download `mathskb.zip` and export somewhere
  - run `setup.exe`
  - restart your system (if it doesn't work)
  - **Note: keep the installation folder. you will need setup.exe if you want to uninstall later**
