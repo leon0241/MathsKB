@@ -19,6 +19,7 @@ Probably not, but ever wanted to type the symbol "²" in a whatsapp chat from a 
  - Download `mathskb.zip` and export somewhere
  - run `setup.exe`
  - restart your system (if it doesn't work)
+ - Since this just adds on to the normal English(United Kingdom), it can effectively replace your current keyboard layout
  - **Note: keep the installation folder. you will need setup.exe if you want to uninstall later**
  - If you want to uninstall, just run setup.exe again
 
