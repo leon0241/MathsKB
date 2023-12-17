@@ -1,0 +1,156 @@
+[
+  [
+    "¬\n`\n\n\n\n\n\n\n∛\n\n√",
+    "!\n1\n\n\n\n\n\n\nx₁\n\nx¹",
+    "\"\n2\n\n\n\n\n\n\nx₂\n\nx²",
+    "£\n3\n\n\n\n\n\n\nx₃\n\nx³",
+    "$\n4\n\n\n\n\n\n\n\n\n€",
+    "%\n5",
+    "^\n6\n⋁\n⋀\n\n\n\n\n∨\n\n∧",
+    "&\n7\n⋃\n⋂\n\n\n\n\n∪\n\n∩",
+    "*\n8\n\n∗\n\n\n\n\n∘\n\n∙",
+    "(\n9\n\n\n\n\n\n\n\n\n∂",
+    ")\n0\n⊗\n∞\n\n\n\n\nx₀\n\nx⁰",
+    "_\n-\n⁺\n⁻\n\n\n\n\n∓\n\n±",
+    {
+      "t": "#000000\n#ff0000\n#ff0000\n#ff0000\n\n\n\n\n\n\n#ff0000"
+    },
+    "+\n=\n≌\n≡\n\n\n\n\n⟺\n\n≈",
+    {
+      "t": "#000000",
+      "w": 2
+    },
+    "Backspace"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    "Q\n\n\nℚ\n\n\n\n\n□\n\n∎",
+    "W",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n#ff0000"
+    },
+    "E\n\n\n\n\n\n\n\n∃\n\nε",
+    {
+      "t": "#000000"
+    },
+    "R\n\n\nℝ\n\n\n\n\n\n\nρ",
+    "T\n\n\n\n\n\n\n\nϴ\n\nθ",
+    "Y\n\n\n\n\n\n\n\n\n\nτ",
+    "U\n\n\n\n\n\n\n\nϒ\n\nυ",
+    "I\n\n\n∮\n\n\n\n\n∬\n\n∫",
+    "O\n\n\n\n\n\n\n\nΩ\n\nω",
+    "P\n\n\nℙ\n\n\n\n\nΠ\n\nπ",
+    "{\n[\n⌈\n⌊\n\n\n\n\n⟸\n\n←",
+    "}\n]\n⌉\n⌋\n\n\n\n\n⟹\n\n→",
+    {
+      "x": 0.25,
+      "w": 1.25,
+      "h": 2,
+      "w2": 1.5,
+      "h2": 1,
+      "x2": -0.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Caps Lock",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n#ff0000"
+    },
+    "A\n\n\n\n\n\n\n\n∀\n\nα",
+    {
+      "t": "#000000"
+    },
+    "S\n\n\n\n\n\n\n\nΣ\n\nσ",
+    "D\n\n\n∇\n\n\n\n\nΔ\n\nδ",
+    "F\n\n\n\n\n\n\n\nΦ\n\nϕ",
+    "G\n\n\n\n\n\n\n\nΓ\n\nγ",
+    "H",
+    "J\n\n\n\n\n\n\n\nΞ\n\nξ",
+    "K\n\n\n\n\n\n\n\n\n\nκ",
+    "L\n\n\n\n\n\n\n\nΛ\n\nλ",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n#ff0000\n\n#ff0000"
+    },
+    ":\n;\n\n\n\n\n\n\n∋\n\n∈",
+    {
+      "t": "#000000\n\n#ff0000\n#ff0000\n\n\n\n\n#ff0000\n\n#ff0000"
+    },
+    "@\n'\n⊇\n⊃\n\n\n\n\n⊆\n\n⊂",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n\n\n#ff0000"
+    },
+    "~\n#\n\n\n\n\n\n\n∝\n\n∼"
+  ],
+  [
+    {
+      "t": "#000000",
+      "w": 1.25
+    },
+    "Shift",
+    "|\n\\\n\n\n\n\n\n\n\n\n:)",
+    "Z\n\n\n\n\n\n\n\n\n\nζ",
+    "X\n\n\n\n\n\n\n\n\n\nχ",
+    "C\n\n\nℂ\n\n\n\n\nΨ\n\nψ",
+    "V\n\n\n\n\n\n\n\n\n\nν",
+    "B\n\n\n\n\n\n\n\n\n\nβ",
+    "N\n\nℵ\nℕ\n\n\n\n\n\n\nη",
+    "M\n\n\n\n\n\n\n\n\n\nμ",
+    {
+      "t": "#ff0000"
+    },
+    "<\n,\n\n\n\n\n\n\n\n\n≤",
+    ">\n.\n\n×\n\n\n\n\n\n\n≥",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n\n\n#ff0000"
+    },
+    "?\n/\n\n÷\n\n\n\n\n⋯\n\n∴",
+    {
+      "t": "#000000",
+      "w": 2.75
+    },
+    "Shift"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "AltGr",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Menu",
+    {
+      "w": 1.25
+    },
+    "Ctrl"
+  ]
+]
